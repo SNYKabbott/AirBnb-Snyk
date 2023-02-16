@@ -21,5 +21,5 @@ ldap3
 requests
 weasyprint
 ipython_genutils
-werkzeug==1.0
+werkzeug==2.2.3
 MarkupSafe==2.0.1
